@@ -1,0 +1,38 @@
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.logo-text {
+    padding: 10px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.login > a {
+    padding: 20px;
+    background-color: #1db954;
+    font-weight: 800;
+    color: white;
+    border-radius: 99px;
+    text-decoration: none;
+}
+
+.register-button{
+    padding: 20px;
+    background-color: #1db954;
+    font-weight: 800;
+    color: white;
+    border: transparent;
+    border-radius: 99px;
+    text-decoration: none;
+}
+
+.register-button:hover{
+    background-color: #168d40;
+}
+
+.login > a:hover {
+    background-color: #168d40;
+}

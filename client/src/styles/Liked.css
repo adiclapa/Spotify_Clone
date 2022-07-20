@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+  }
+
+  li:hover{
+    background-color: gainsboro;
+  }
+
+  .list-cell{
+    text-align: left !important;
+  }
+  .list-cell-right{
+    text-align: right !important;
+  }

@@ -1,0 +1,27 @@
+.card-grid, .card {
+    padding: 5px 5px !important;
+    height: auto !important;
+    width: fit-content !important;
+    justify-content: center;
+    margin: 1rem;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.card-body {
+    background-color: #F6F5F5;
+    margin: 0;
+}
+
+.card-img,
+.card-img-top,
+.card-img-bottom {
+    height: fit-content;
+    width: auto;
+    align-content: flex-start;
+}
+
+.card-text {
+    height: fit-content;
+    margin-bottom: 2rem;
+}
